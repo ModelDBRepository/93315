@@ -19,13 +19,11 @@ The code is archived in the following formats:
 The files in both of these archives are identical. A file readme.txt
 included in the archives gives instructions on running the code.
 
-[![Return to Home](http://www.ece.mcmaster.ca/%7Eibruce/images/shell.ico "Return to Home")](http://www.ece.mcmaster.ca/%7Eibruce/)
+![Return to Home](index_files/Home)
 [Back to Ian's Home Page](http://www.ece.mcmaster.ca/%7Eibruce/)
 
 ---
 
-*Created by Ian Bruce <ibruce@ieee.org> - last modified Thursday, May 10, 2007*
-
----
-
-2025-05-29 – Standardized to Markdown
+*Created by Ian Bruce <ibruce@ieee.org>*  
+*- last modified Thursday, May 10, 2007*  
+*- Standardized to Markdown Thursday 29, 2025*
